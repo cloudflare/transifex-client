@@ -1,0 +1,19 @@
+{
+  "name": "transifex-client",
+  "description": "HTTP Client API for the Transifex translation service",
+  "version": "0.0.0",
+  "author": "Terin Stock <terinjokes@gmail.com>",
+  "bugs": "https://github.com/terinjokes/transifex-client/issues",
+  "homepage": "https://github.com/terinjokes/transifex-client",
+  "keywords": [
+    "transifex",
+    "translations"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/terinjokes/transifex-client",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "needle": "^0.7.2"
+  }
+}
